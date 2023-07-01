@@ -8,6 +8,7 @@ function App() {
     <div>
       <Navbar/>
       <Hero/>
+      dsada
     </div>
   );
 }
